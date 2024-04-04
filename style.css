@@ -9,12 +9,13 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f8f8f8;
+  color: #01215a;
   color: #333;
   line-height: 1.6;
 }
 
 header {
-  background-color: #333;
+  background-color: #01215a;
   color: #fff;
   height: 60px;
   padding: 0 20px;
@@ -26,7 +27,7 @@ header {
 }
 
 header h2 {
-  color: yellow;
+  color: cyan;
 }
 
 nav ul {
@@ -57,14 +58,14 @@ section {
 section h2 {
   font-size: 26px;
   margin-bottom: 10px;
-  color: #333;
+  color: #01215a;;
   font-family: cursive;
 }
 
 section p {
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
-  color: grey;
+  color: #01215a;
 }
 
 #home {
@@ -79,6 +80,7 @@ section p {
 #home p {
   font-size: 18px;
   width: 350px;
+ 
 }
 
 #home img {
@@ -140,10 +142,10 @@ iframe {
 }
 
 footer {
-  background-color: #333;
   color: #fff;
   padding: 10px 0;
   text-align: center;
+  background-color: #01215a;
 }
 
 footer p {
